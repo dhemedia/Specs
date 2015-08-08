@@ -1,2 +1,2 @@
 # Specs
-Thez d!NK CocoaPods specs
+The d!NK CocoaPods specs
