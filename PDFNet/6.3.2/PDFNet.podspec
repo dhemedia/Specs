@@ -1,6 +1,7 @@
 Pod::Spec.new do |spec|
   spec.name         = 'PDFNet'
   spec.version      = '6.3.2'
+  spec.platform     = :ios, '7.0'
   spec.license      = { :type => 'BSD' }
   spec.homepage     = 'http://www.pdftron.com/pdfnet/index.html'
   spec.summary      = 'PDF framework for IOS'
